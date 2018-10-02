@@ -1,0 +1,9 @@
+1. Simply specify the image you want to load in the beginning of the file and click run.
+2. For selection of the points please follow the format below:
+	i) affineRectify: left click: zoom, right click = select point, double left click: return to original position. Choose 4 points in anti clockwise direction for the quadrilateral in question.
+	ii) metricRectify 1a: left click: zoom, right click = select point, double left click: return to original position. Select 6 points(3 for one pair of orthogonal lines and 3 for the other. Please do so in an L shape starting from the right most point, then to the center then to the top. )
+	iii) metricRectify 1b: left click: zoom, right click = select point, double left click: return to original position. Choose 5 points on a conic. After that immediately select the pair of lines that are intersecting at infinity as you did in i)
+	iv) metricRectify 2: No zoom capability. Right click to select L shaped pair of lines as in ii). When completed selecting 15 points select enter to run the rest of the program.
+
+Submitted by Fnu Tulha
+CAP 6419 Assignment 2 

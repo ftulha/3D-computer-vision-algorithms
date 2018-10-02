@@ -1,0 +1,1 @@
+The code has been automated to be used on any computer. However, you will have to uncomment the code for the dataset you want to run it for. The default code will run for Dataset 1 sequence 1. Run the file panorama.m to start the program.
